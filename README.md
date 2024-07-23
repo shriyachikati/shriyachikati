@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://meme-api.com/gimme' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shriyachikati&icon=0&color=0)](https://visitcount.itsvg.in)
