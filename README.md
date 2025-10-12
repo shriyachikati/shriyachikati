@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a new graduate from the University of Waterloo with a Master's degree in Data Science and Artificial Intelligence<br>
+🔭 I am a graduate from the University of Waterloo with a Master's degree in Data Science and Artificial Intelligence<br>
 
 
 ## 🌐 Socials:
